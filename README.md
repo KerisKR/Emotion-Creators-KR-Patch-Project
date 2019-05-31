@@ -7,8 +7,8 @@ Emotion Creators KR Patch Project<br>
 ※ 번역파일 주 배포 카페는 일루전 : 카툰렌더링 카페(https://cafe.naver.com/koikatu) 에서 주로 배포됩니다<br>
    (여기서 번역된 파일이  수정및 먼저 올라온후 하루~3일정도 딜레이를 가지고 카페를 통해서도 배포합니다)<br>
 ※ 구글번역 + 수작업으로 진행되며 프로젝트에 참가하셔서 수정및 보완해주셔도 괜찬습니다(오히려 고맙습니다)<br>
-※ <font color=red><b>(필수)</b></font>한글로 출력을 위해서는 굿캣님의 EC한글 폰트 로더 플러그인이 필요합니다
+※ <b>(필수)</b>한글로 출력을 위해서는 굿캣님의 EC한글 폰트 로더 플러그인이 필요합니다<br>
     (https://cafe.naver.com/koikatu/11625)<br>
-※ 설치법: Master-zip파일을 받은후 이모션크레티어즈설치폴더BepInEx\Translation\Text 안의 파일을 다 백업후 삭제하신다음에<br>
-          BepInEx\Translation\Text 안에 txt파일들이 들어가거 넣으세요
-          
+※ 설치법: Master-zip파일을 받은후 "이모션크레티어즈설치폴더\BepInEx\Translation\Text" 안의 파일을 다 백업후 삭제하신다음에<br>
+          "BepInEx\Translation\Text" 안에 txt파일들이 들어가게 넣으세요
+         
