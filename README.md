@@ -13,7 +13,7 @@
     Emotion-Creators-KR-Patch-Project-master.zip 파일을 받은후 "이모션크레티어즈설치폴더\BepInEx\Translation\Text" 안의 파일을<br>
     다 백업후 삭제하신다음에 "BepInEx\Translation\Text" 안에 txt파일들이 들어가게 넣어주세요<br>
          
--English (use The Translate)(영어)[번역기라 좀 조잡할수있습니다)
+-English (use The Translate)(영어)[번역기라 좀 조잡할수있습니다)<br>
 Emotion-Creators-Korea-Patch-Project<br>
 ※ Project Repository URL : https://github.com/KerisKR/Emotion-Creators-KR-Patch-Project/<br>
 ※ BepInEx 5.0 base XUnity.AutoTranslator Plugin Using to Make A korean Patch<br>
