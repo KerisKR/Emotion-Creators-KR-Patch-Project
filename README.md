@@ -23,6 +23,7 @@ Emotion-Creators-Korea-Patch-Project<br>
 ※ GoogleTranslate + Manual Working To Process /  Join The Project Modify&Supplementary work It's okay.(Thank you rather)<br>
 ※ <b>(Required)</b>if Output Korean then Goodcat's  Required EC-korean-fontloader-Plugin<br>
     (https://cafe.naver.com/koikatu/11625)<br>
-※ How The install: GreenBoxButton [Clone Or Download] Button click -> [Download ZIp] Button Clicak And Downiad<br>
-    Emotion-Creators-KR-Patch-Project-master.zip File Download End -> Backup And Delete in "Emotion-Creators-install-Folder\BepInEx\Translation\Text" <br>
-    All file backup End -> Paste korean translate File in  "BepInEx\Translation\Text"<br>
+※ How The install: GreenBoxButton [Clone Or Download] Button click -> [Download ZIp] Button Click And Download<br>
+    Emotion-Creators-KR-Patch-Project-master.zip File Download End -> All File And Folder Backup And Delete in<br>
+    "Emotion-Creators-install-Folder\BepInEx\Translation\Text" <br>
+    All Folder ANd file backup End -> Paste korean translate File in  "Emotion-Creators-install-Folder\BepInEx\Translation\Text"<br>
