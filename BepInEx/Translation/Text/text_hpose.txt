@@ -1,4 +1,4 @@
-﻿Tポーズ=T pose
+Tポーズ=T pose
 特殊 咥え 女役 5=Special Moe Female Role 5
 特殊 舐め 男役 10=Special Resignation Male Role 10
 立ち 舐め 男役 1=Standing and giving a male role 1
@@ -239,9 +239,6 @@
 特殊 咥え 女役 5=특수 물고 여자5
 特殊 咥え 女役 6=특수 물고 여자6
 
-
-
-
 //공통
 舐め・男役=남자 봉사
 舐め・女役=여자 봉사
@@ -258,7 +255,3 @@
 挿入 女役=삽입 여자
 挿入 男役=삽입 남자
 しゃがみ・座り=Squatting
-\同時=동시 절정
-外出し=바깥에 사정
-中出し=안에 사정
-中出し事後=안에사정후
