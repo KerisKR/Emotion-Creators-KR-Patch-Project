@@ -1,5 +1,5 @@
 # Emotion-Creators-KR-Patch-Project<br>
-Emotion Creators KR Patch Project<br>
+-Korean(한국어)
 이모션 크레티어즈 한국어 패치 프로젝트<br>
 ※ 프로젝트 저장소 주소는 https://github.com/KerisKR/Emotion-Creators-KR-Patch-Project/ 입니다<br>
 ※ BepInEx 5.0 기반의 XUnity.AutoTranslator 플러그인을 사용해서 한국어 패치를 만듭니다<br>
@@ -13,3 +13,16 @@ Emotion Creators KR Patch Project<br>
     Emotion-Creators-KR-Patch-Project-master.zip 파일을 받은후 "이모션크레티어즈설치폴더\BepInEx\Translation\Text" 안의 파일을<br>
     다 백업후 삭제하신다음에 "BepInEx\Translation\Text" 안에 txt파일들이 들어가게 넣어주세요<br>
          
+-English (use The Translate)(영어)[번역기라 좀 조잡할수있습니다)
+Emotion-Creators-Korea-Patch-Project<br>
+※ Project Repository URL : https://github.com/KerisKR/Emotion-Creators-KR-Patch-Project/<br>
+※ BepInEx 5.0 base XUnity.AutoTranslator Plugin Using to Make A korean Patch<br>
+※ Fllow To GNU Public License / if Anywhere distribute It does not matter<br>
+※ Translate File distribute To mainly Cafe in Illusion : Cartoon rendering Cafe(https://cafe.naver.com/koikatu)<br>
+   (Here Github First Upload And Modify file To 1day~3day Late in cafe)<br>
+※ GoogleTranslate + Manual Working To Process /  Join The Project Modify&Supplementary work It's okay.(Thank you rather)<br>
+※ <b>(Required)</b>if Output Korean then Goodcat's  Required EC-korean-fontloader-Plugin<br>
+    (https://cafe.naver.com/koikatu/11625)<br>
+※ How The install: GreenBoxButton [Clone Or Download] Button click -> [Download ZIp] Button Clicak And Downiad<br>
+    Emotion-Creators-KR-Patch-Project-master.zip File Download End -> Backup And Delete in "Emotion-Creators-install-Folder\BepInEx\Translation\Text" <br>
+    All file backup End -> Paste korean translate File in  "BepInEx\Translation\Text"<br>
