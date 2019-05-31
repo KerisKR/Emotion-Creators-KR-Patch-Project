@@ -9,6 +9,7 @@ Emotion Creators KR Patch Project<br>
 ※ 구글번역 + 수작업으로 진행되며 프로젝트에 참가하셔서 수정및 보완해주셔도 괜찬습니다(오히려 고맙습니다)<br>
 ※ <b>(필수)</b>한글로 출력을 위해서는 굿캣님의 EC한글 폰트 로더 플러그인이 필요합니다<br>
     (https://cafe.naver.com/koikatu/11625)<br>
-※ 설치법: Master-zip파일을 받은후 "이모션크레티어즈설치폴더\BepInEx\Translation\Text" 안의 파일을 다 백업후 삭제하신다음에<br>
-          "BepInEx\Translation\Text" 안에 txt파일들이 들어가게 넣으세요
+※ 설치법: 위에 초록색의 [Clone Or Download] 버튼을 누르신후 [Download ZIp] 버튼을 누르셔서<br>
+    Emotion-Creators-KR-Patch-Project-master.zip 파일을 받은후 "이모션크레티어즈설치폴더\BepInEx\Translation\Text" 안의 파일을<br>
+    다 백업후 삭제하신다음에 "BepInEx\Translation\Text" 안에 txt파일들이 들어가게 넣어주세요<br>
          
